@@ -6,7 +6,7 @@ function App() {
     <div className="App"> 
       <header className="App-header">
         {/* Componente propio Greting.jsx */}
-        <Greeting></Greeting>
+        <Greeting name="Sergio"></Greeting>
       </header>
     </div>
   );
